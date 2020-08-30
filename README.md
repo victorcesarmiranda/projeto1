@@ -1,4 +1,3 @@
 # projeto1
-Projeto feito com JPA
+Projeto de SpringFramework
 
-Basta executar o projeto na sua IDE favorita.
